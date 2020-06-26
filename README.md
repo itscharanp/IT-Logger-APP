@@ -1,9 +1,8 @@
 
-## The Pixelated Coder  :man_technologist:
+## The Pragmatic Geek:
 
-> Contributor : Kavish Pandit 
-
-# Work From Home IT Logger
+> Contributor : Charan Kumar
+# IT Logger
 :ticket:Logging Changes Required on Modules with Added Technichians.This application is made using Node J| Express js s as a backend.<br>
 :ticket: Work from Home React-Redux app to track IT department tasks and issues<br>
 
