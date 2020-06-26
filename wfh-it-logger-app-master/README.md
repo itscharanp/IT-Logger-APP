@@ -1,5 +1,5 @@
 
-## The Pixelated Coder  :man_technologist:
+## The Pragmatic Geek  :man_technologist:
 
 > Contributor : Charan Kumar
 
